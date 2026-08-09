@@ -152,7 +152,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MirFlames/mirflames/output/snake.svg" alt="snake" width="100%" />
+<img src="https://raw.githubusercontent.com/MirFlames/mirflames/refs/heads/output/snake.svg" alt="snake" width="100%" />
 
 </div>
 
