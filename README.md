@@ -107,57 +107,6 @@
 
 ---
 
-## 🚀 Проекты
-
-<div align="center">
-
-<a href="https://github.com/MirFlames/launcher">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MirFlames&repo=launcher&theme=tokyonight&hide_border=true&bg_color=00000000" alt="launcher" />
-</a>
-<a href="https://github.com/MirFlames/branch-skill">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MirFlames&repo=branch-skill&theme=tokyonight&hide_border=true&bg_color=00000000" alt="branch-skill" />
-</a>
-<br/>
-<a href="https://github.com/MirFlames/discord-admin-bot">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MirFlames&repo=discord-admin-bot&theme=tokyonight&hide_border=true&bg_color=00000000" alt="discord-admin-bot" />
-</a>
-<a href="https://github.com/MirFlames/mirflames.github.io">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MirFlames&repo=mirflames.github.io&theme=tokyonight&hide_border=true&bg_color=00000000" alt="personal-page" />
-</a>
-
-</div>
-
-> **Пет-проекты:** full-cycle MVP на новом для себя стеке — `Go` + `Wails` + `Vue.js` + `React`. Заодно обкатываю мультиагентные AI-схемы и TDD-контроль над AI-сгенерированным кодом.
-
----
-
-## 📊 Статистика
-
-<div align="center">
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=MirFlames&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&locale=ru" alt="stats" height="170" />
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MirFlames&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&locale=ru" alt="top-langs" height="170" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MirFlames&theme=tokyonight&hide_border=true&background=00000000&locale=ru" alt="streak" />
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=MirFlames&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MirFlames&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="activity" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/MirFlames/mirflames/refs/heads/output/snake.svg" alt="snake" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Открыт к предложениям
